@@ -10,6 +10,7 @@ Everforest theme for Visual Studio 2022. Inspired by [sainnhe/everforest](https:
 
 ## Installation
 
+You can install the Visual Studio 2022 Everforest extension here [Everforest](https://marketplace.visualstudio.com/items?itemName=zfranzen.Everforestext123).
 
 ## Editing
 
