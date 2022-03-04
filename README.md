@@ -13,4 +13,4 @@ Everforest theme for Visual Studio 2022. Inspired by [sainnhe/everforest](https:
 
 ## Editing
 
-[Visual Studio 2022 Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
+In order to further edit Everforest to suit your personal needs, you must first download the [Visual Studio 2022 Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner) extension. Fork this project and edit to your hearts content!
