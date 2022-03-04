@@ -59,6 +59,7 @@
     <PackageReference Include="Microsoft.VisualStudio.VsixColorCompiler" Version="17.0.31709.430" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\Screenshot xaml.png" />
     <Content Include="assets\Screenshot.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
