@@ -8,6 +8,9 @@ Everforest theme for Visual Studio 2022. Inspired by [sainnhe/everforest](https:
 ### Xaml support
 ![xaml support](https://github.com/ZachFranzen/Everforest/blob/master/EverforestZF/assets/Screenshot_xaml.png)
 
-# Installation
+## Installation
 
-# editing
+
+## Editing
+
+[Visual Studio 2022 Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
